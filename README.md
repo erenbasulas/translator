@@ -1,5 +1,6 @@
 # translator
 *translator*, allows you to use [Google Translate](https://translate.google.com) on the command line with the help of Headless Chrome.
+
 ![TRsozluk Gorsel](https://github.com/erenbasulas/translator/blob/master/pic/translate.png?raw=true)
 
 
