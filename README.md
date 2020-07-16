@@ -43,4 +43,4 @@ or
 
 * You can exit with "/exit" command
 
-* If you want to access this file while the program is open, you can enter "/help"
+* If you want to access "readme.txt" while the program is open, you can enter "/help"
